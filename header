@@ -1,0 +1,7 @@
+container__imagem-transparente {
+    display: none;
+}//Código omitido
+
+.cabeçalho_menu-hamburguer {
+    display: none;
+}
